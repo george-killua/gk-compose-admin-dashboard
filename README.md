@@ -1,5 +1,7 @@
 # GK Compose Admin Dashboard
 
+![GK Compose Admin Dashboard preview](docs/preview.svg)
+
 Jetpack Compose admin dashboard sample by **GK Coding**.
 
 This project demonstrates a clean Android dashboard UI for tracking project requests, active builds, and delivery status.
@@ -13,14 +15,16 @@ This project demonstrates a clean Android dashboard UI for tracking project requ
 - Project pipeline list
 - Clean small-project architecture
 
-## Run
+## Tech
+
+`Kotlin` · `Jetpack Compose` · `Material 3` · `Android Studio`
+
+## Verify
 
 ```bash
 ./gradlew :app:assembleDebug
 ```
 
-Open the project in Android Studio and run the `app` configuration.
-
 ## Purpose
 
-This is a portfolio/demo project showing Android dashboard UI implementation and product-oriented information hierarchy.
+Portfolio/demo project showing Android dashboard UI implementation and product-oriented information hierarchy.
